@@ -11250,7 +11250,7 @@ section {
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url("../assets/img/MrAIcut.gif");
+  background-image: url(".MrAIcut.gif");
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .button {
@@ -11264,7 +11264,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("../assets/img/aiB.png");
+  background-image: url("aiB.png");
   background-position: center;
   background-size: cover;
 }
